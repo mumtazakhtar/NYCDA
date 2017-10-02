@@ -1,0 +1,50 @@
+body{
+	
+	margin: 0;
+	padding: 0;
+}
+ul {list-style: none;}
+li {list-style: none;}
+a {text-decoration: none;}
+p{text-align: center;}
+h1{text-align: center;}
+.section1{
+	
+	height:100px;
+	max-width: 100%;
+
+}
+
+.history{background-color: pink;text-align: center;float: left;}
+.navigation{
+ position: fixed;
+ width: 100%;
+ display: inline-block;
+
+}
+
+li{display: inline-block;padding: 70px;float:left;padding: 34px 94px;}
+a:hover    { background-color:#CCCCCC;color:red }
+.logo  {width: 40%}
+.logo>a>img {float: left;width: 19.5%;}
+
+.cover{
+	width:100%;
+	height:300px;
+	background-image: url("../images/destination.jpg");
+	background-size: 100% 100%;
+}
+
+.places{width: 100%}
+.place1{float: left;padding:20px;width:25%;text-align: center;}
+.place1>img{width: 50%;}
+.place2{float: left;padding:20px;width: 25%;text-align: center;}
+.place2>img{width: 50%;}
+.place3{float: left;padding:20px;width: 25%;text-align: center;}
+.place3>img{width: 50%;}
+.place4{float: left;padding:20px;width: 25%;text-align: center;}
+.place4>img{width: 50%;}
+.place5{float: left;padding:20px;width: 25%;text-align: center;}
+.place5>img{width: 50%;}
+.place6{float: left;padding:20px;width: 25%;text-align: center;}
+.place6>img{width: 50%;}
